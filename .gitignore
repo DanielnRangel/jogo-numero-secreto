@@ -1,0 +1,4 @@
+temp/
+arquivo.txt/
+# *.css/
+# *.css ignora todos os arquivos .css
